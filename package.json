@@ -1,0 +1,31 @@
+{
+  "name": "glushkivan-module",
+  "version": "1.0.0",
+  "description": "A collection of utilities for astronomy calculations and weather fetching.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glushkivan518/glushkivan-module"
+  },
+  "dependencies": {
+	  "lenovpaha": "1.0.0",
+"vl75": "1.0.0",
+"donaldrodriguez": "1.0.0",
+"vo21": "1.0.0",
+"denisgorlov-math": "1.0.0",
+"kennethallen-cloud": "1.0.0",
+"mode-tobogunbar": "1.0.0",
+"soft-zyat": "1.0.0",
+    "axios": "^0.23.0",
+    "suncalc": "^1.8.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glushkivan518/glushkivan-module/issues"
+  },
+  "homepage": "https://github.com/glushkivan518/glushkivan-module#readme"
+}
